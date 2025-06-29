@@ -6,3 +6,4 @@ ipykernel
 bs4
 flask
 scikit-learn
+imbalanced-learn
