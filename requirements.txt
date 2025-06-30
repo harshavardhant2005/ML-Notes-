@@ -5,3 +5,5 @@ matplotlib
 ipykernel
 bs4
 flask
+imbalanced-learn 
+scikit-learn
